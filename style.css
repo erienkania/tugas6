@@ -1,0 +1,101 @@
+/*Header*/
+header{
+    background-color: rgb(164, 167, 168);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 20%;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+
+/*hiasan body*/
+body{
+    background-image: url(http://4.bp.blogspot.com/-I6zSQPdQpOo/Vl3oxQwxsdI/AAAAAAAABks/kQIR9K8uPG4/s320/Logo%2BDufan.jpg);
+    margin: 0;
+    padding: 0;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    background-attachment: fixed;
+    background-size: cover;
+}
+*{ scroll-behavior: smooth;}
+
+h1{
+    font-size: 35px;
+    margin: 0;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;} 
+
+/*hiasan poin-point*/
+.list{
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    
+}
+.Profil{margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    text-align: justify;}
+    
+h2{text-align: center;}
+
+.tiket{
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;}
+h2{text-align: center;
+}
+table thead {
+    background-color: #bd3d3d;
+    color: #fff;
+}
+
+table th, table td {
+    border: 1px solid #bd3d3d;
+    padding: 8px;
+}
+.wahana{
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+}
+.syarat{
+    margin: 20px auto;
+    width: 80%;
+    max-width: 600px;
+    background-color: #f4f4f4;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: Arial, sans-serif;
+    text-align: justify;
+}
+.footer{
+    background-color: #867474;
+    padding-bottom: 4%;
+    text-align: center;
+    color: white;
+    padding: 3px;
+    font-family: Arial, sans-serif;
+}
+.box-model {
+    border: 2px solid #353131;      
+    padding: 20px;
+</body>
+</html>
